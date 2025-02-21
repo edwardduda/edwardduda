@@ -18,8 +18,8 @@
 #### Visualization & Tools:
 ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge) ![Tensorboard](https://img.shields.io/badge/Tensorboard-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white)
 ### 📌 On-going Projects
-- 📈 **Stock Prediction AI**: Using Reinforcement Learning, Genetic Algorithms, and Sentiment Analysis for financial market forecasting
-- 🕳️ **Black Hole Simulation**: Simulating gravitational distortions using ASCII characters and the just-in-time compiler Python 
+- 📈 **Portfolio Agentic Trading**: Using Reinforcement Learning and technical analysis for financial market navigation and portfolio management
+- 🕳️ **Black Hole Simulation**: Simulating gravitational distortions using ASCII characters and a just-in-time compiler in Python 
 - 🔬 **Bioinformatics**: Using deep learning to apply NLP techniques to analyze DNA sequences and predict/generate protein structures
 ### 🚀 About Me
 - 🎓 Computer Science major (May 2025) with AI & Machine Learning concentration and Mathematics Minor
