@@ -20,7 +20,6 @@
 - 🔬 **Bioinformatics**: Using deep learning to apply NLP techniques to analyze DNA sequences and predict/generate protein structures
 ### 🚀 About Me
 - 🎓 Computer Science major (May 2025) with AI & Machine Learning concentration and Mathematics Minor
-- 👨‍💼 Seeking Employment
 - 🧠 Passionate about AI, deep learning, and generative models
 - 🇫🇷 Fluent in English & French
 
