@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:414868,100:7c3aed&amp;height=220&amp;section=header&amp;text=Edward%20Duda&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Machine%20Learning%20-%20Language%20Models%20-%20Generative%20Audio&amp;descSize=18&amp;descAlignY=58" alt="Edward Duda — Machine Learning, Language Models, and Generative Audio" />
+  <img width="100%" src="assets/neural-banner.svg" alt="Edward Duda — Machine Learning, Language Models, and Generative Audio" />
 </p>
 
 I build machine learning experiments and practical AI tools, with interests in
