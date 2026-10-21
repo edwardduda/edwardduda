@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Edward Duda — Machine learning and practical AI tools</title>
+  <desc id="desc">A dark blue and purple banner with a softly animated neural network. Signals travel from left to right through three layers while Edward's name and interests remain still.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#1a1b27"/>
+      <stop offset="1" stop-color="#202238"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#7aa2f7" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r=".8" fill="#7aa2f7" opacity=".09"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="278" rx="18"/></clipPath>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+      .signal { fill: none; stroke: url(#accent); stroke-width: 2; stroke-linecap: round; stroke-dasharray: 12 280; animation: travel 5s linear infinite; }
+      .second { animation-delay: -2.5s; }
+      .node-halo { transform-box: fill-box; transform-origin: center; animation: breathe 5s ease-in-out infinite; }
+      .delayed { animation-delay: -2.5s; }
+      @keyframes travel { from { stroke-dashoffset: 292; } to { stroke-dashoffset: 0; } }
+      @keyframes breathe { 0%, 100% { opacity: .12; transform: scale(1); } 50% { opacity: .35; transform: scale(1.35); } }
+      @media (prefers-reduced-motion: reduce) { .signal, .node-halo { animation: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="280" fill="url(#background)"/>
+    <rect x="600" width="600" height="280" fill="url(#grid)"/>
+    <ellipse cx="890" cy="140" rx="320" ry="230" fill="url(#halo)"/>
+    <rect x="60" y="64" width="32" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="60" y="126" fill="#e0e6ff" font-size="48" font-weight="650" letter-spacing="-1">Edward Duda</text>
+    <text x="62" y="166" fill="#a9b1d6" font-size="18">Machine learning · Language models</text>
+    <text x="62" y="195" fill="#a9b1d6" font-size="18">Generative audio · Practical AI tools</text>
+
+    <!-- Connections are intentionally quiet; a few moving signals suggest inference. -->
+    <g fill="none" stroke="#7aa2f7" stroke-opacity=".18" stroke-width="1">
+      <path d="M700 70 870 50 M700 70 870 110 M700 70 870 170 M700 70 870 230"/>
+      <path d="M700 140 870 50 M700 140 870 110 M700 140 870 170 M700 140 870 230"/>
+      <path d="M700 210 870 50 M700 210 870 110 M700 210 870 170 M700 210 870 230"/>
+      <path d="M870 50 1040 90 M870 50 1040 190 M870 110 1040 90 M870 110 1040 190"/>
+      <path d="M870 170 1040 90 M870 170 1040 190 M870 230 1040 90 M870 230 1040 190"/>
+    </g>
+    <path class="signal" d="M700 70 870 110 1040 90"/>
+    <path class="signal second" d="M700 210 870 170 1040 190"/>
+    <g fill="#7aa2f7">
+      <circle class="node-halo" cx="700" cy="70" r="16"/>
+      <circle class="node-halo delayed" cx="700" cy="210" r="16"/>
+      <circle cx="700" cy="70" r="6"/><circle cx="700" cy="140" r="6"/><circle cx="700" cy="210" r="6"/>
+    </g>
+    <g fill="#9c9af7">
+      <circle class="node-halo" cx="870" cy="110" r="16"/>
+      <circle class="node-halo delayed" cx="870" cy="170" r="16"/>
+      <circle cx="870" cy="50" r="6"/><circle cx="870" cy="110" r="6"/>
+      <circle cx="870" cy="170" r="6"/><circle cx="870" cy="230" r="6"/>
+    </g>
+    <g fill="#bb9af7">
+      <circle class="node-halo" cx="1040" cy="90" r="18"/>
+      <circle class="node-halo delayed" cx="1040" cy="190" r="18"/>
+      <circle cx="1040" cy="90" r="7"/><circle cx="1040" cy="190" r="7"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="279" rx="18" fill="none" stroke="#414868" stroke-opacity=".65"/>
+</svg>

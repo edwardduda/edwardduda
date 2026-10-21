@@ -1,33 +1,44 @@
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardduda&theme=tokyonight"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardduda&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="100%" src="assets/neural-banner.svg" alt="Edward Duda — Machine Learning, Language Models, and Generative Audio" />
+</p>
 
-#### AI & Machine Learning:
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F4A261?style=for-the-badge&logo=huggingface&logoColor=white) ![Deep RL](https://img.shields.io/badge/Deep%20RL-563D7C?style=for-the-badge) ![MLX](https://img.shields.io/badge/MLX-FF7F50?style=for-the-badge)
+I build machine learning experiments and practical AI tools, with interests in
+language models, reinforcement learning, and generative audio.
 
-#### Visualization & Tools:
-![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge) ![Tensorboard](https://img.shields.io/badge/Tensorboard-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white)
-### 📌 On-going Projects
-- 📈 **Portfolio Agentic Trading**: Using Reinforcement Learning and technical analysis for financial market navigation and portfolio management
-- 🕳️ **Black Hole Simulation**: Simulating gravitational distortions using ASCII characters and a just-in-time compiler in Python 
-- 🔬 **Bioinformatics**: Using deep learning to apply NLP techniques to analyze DNA sequences and predict/generate protein structures
-### 🚀 About Me
-- 🎓 Computer Science major (May 2025) with AI & Machine Learning concentration and Mathematics Minor
-- 🧠 Passionate about AI, deep learning, and generative models
-- 🇫🇷 Fluent in English & French
+My projects range from experimenting with neural network architectures to building
+local audio workflows. I enjoy working through both the mathematical ideas and the
+engineering needed to make them useful.
 
-<!---
-edwardduda/edwardduda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tools I work with
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,java,git,postgres,supabase&amp;theme=dark&amp;perline=10" alt="Python, PyTorch, C++, Java, Git, PostGres, and Supabase" />
+  </a>
+</p>
 
 
+## Selected projects
 
+| Project | What I'm exploring |
+| --- | --- |
+| [Audiobook Generator](https://github.com/edwardduda/audiobook_generator) | Local, multi-voice audiobook generation with PDF text preparation and speech synthesis on Apple Silicon. |
+| [B-Spline Neural Networks](https://github.com/edwardduda/b-spline_neural_networks) | Comparing Transformer language models with standard MLP layers and B-spline Kolmogorov–Arnold Network layers. |
+| [MoonPi](https://github.com/edwardduda/MoonPi) | Deep reinforcement learning for algorithmic trading, with a custom environment and attention-based DQN architecture. |
+| [Mamba + Transformer LLM](https://github.com/edwardduda/Mamba-Transformer-LLM) | Experiments combining selective state-space models and Transformer blocks for language modeling. |
 
+## Most-used languages
+
+<p align="center">
+  <img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardduda&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=6&amp;hide_border=true" alt="Most-used languages across my public GitHub repositories" />
+</p>
+
+Based on repository code size; this chart reflects the code on GitHub, including notebooks.
+
+## A little about me
+
+- My academic background is in computer science, with a focus on AI and machine learning and a mathematics minor.
+- I speak English and French.
+- I like projects where mathematical ideas meet practical engineering.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/edwardduda/)
