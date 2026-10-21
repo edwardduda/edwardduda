@@ -11,13 +11,12 @@ engineering needed to make them useful.
 
 ## Tools I work with
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,cpp,java,git&amp;theme=dark&amp;perline=7" alt="Python, PyTorch, TensorFlow, scikit-learn, C++, Java, and Git" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,java,git,postgres,supabase&amp;theme=dark&amp;perline=10" alt="Python, PyTorch, C++, Java, Git, PostGres, and Supabase" />
   </a>
 </p>
 
-Also: MLX, Hugging Face, Numba, and TensorBoard.
 
 ## Selected projects
 
