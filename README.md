@@ -1,4 +1,6 @@
-# Hi, I'm Edward Duda
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:414868,100:7c3aed&amp;height=220&amp;section=header&amp;text=Edward%20Duda&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Machine%20Learning%20-%20Language%20Models%20-%20Generative%20Audio&amp;descSize=18&amp;descAlignY=58" alt="Edward Duda — Machine Learning, Language Models, and Generative Audio" />
+</p>
 
 I build machine learning experiments and practical AI tools, with interests in
 language models, reinforcement learning, and generative audio.
@@ -6,6 +8,16 @@ language models, reinforcement learning, and generative audio.
 My projects range from experimenting with neural network architectures to building
 local audio workflows. I enjoy working through both the mathematical ideas and the
 engineering needed to make them useful.
+
+## Tools I work with
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,cpp,java,git&amp;theme=dark&amp;perline=7" alt="Python, PyTorch, TensorFlow, scikit-learn, C++, Java, and Git" />
+  </a>
+</p>
+
+Also: MLX, Hugging Face, Numba, and TensorBoard.
 
 ## Selected projects
 
@@ -16,9 +28,13 @@ engineering needed to make them useful.
 | [MoonPi](https://github.com/edwardduda/MoonPi) | Deep reinforcement learning for algorithmic trading, with a custom environment and attention-based DQN architecture. |
 | [Mamba + Transformer LLM](https://github.com/edwardduda/Mamba-Transformer-LLM) | Experiments combining selective state-space models and Transformer blocks for language modeling. |
 
-## Tools I work with
+## Most-used languages
 
-Python · PyTorch · MLX · scikit-learn · Hugging Face · Numba · TensorBoard
+<p align="center">
+  <img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardduda&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=6&amp;hide_border=true" alt="Most-used languages across my public GitHub repositories" />
+</p>
+
+Based on repository code size; this chart reflects the code on GitHub, including notebooks.
 
 ## A little about me
 
