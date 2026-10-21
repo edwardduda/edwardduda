@@ -30,7 +30,7 @@ engineering needed to make them useful.
 ## Most-used languages
 
 <p align="center">
-  <img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardduda&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=6&amp;hide_border=true" alt="Most-used languages across my public GitHub repositories" />
+  <img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardduda&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=6&amp;hide=Jupyter%20Notebook&amp;hide_border=true" alt="Most-used languages across my public GitHub repositories, excluding Jupyter Notebook" />
 </p>
 
 Based on repository code size; this chart reflects the code on GitHub, including notebooks.
