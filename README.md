@@ -24,7 +24,6 @@ engineering needed to make them useful.
 | --- | --- |
 | [Audiobook Generator](https://github.com/edwardduda/audiobook_generator) | Local, multi-voice audiobook generation with PDF text preparation and speech synthesis on Apple Silicon. |
 | [B-Spline Neural Networks](https://github.com/edwardduda/b-spline_neural_networks) | Comparing Transformer language models with standard MLP layers and B-spline Kolmogorov–Arnold Network layers. |
-| [MoonPi](https://github.com/edwardduda/MoonPi) | Deep reinforcement learning for algorithmic trading, with a custom environment and attention-based DQN architecture. |
 | [Mamba + Transformer LLM](https://github.com/edwardduda/Mamba-Transformer-LLM) | Experiments combining selective state-space models and Transformer blocks for language modeling. |
 
 ## Most-used languages
